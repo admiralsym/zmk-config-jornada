@@ -1,0 +1,6 @@
+if SHIELD_JORNADA
+
+config ZMK_KEYBOARD_NAME
+    default "G8X Keyboard"
+
+endif
