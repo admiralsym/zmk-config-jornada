@@ -1,2 +1,0 @@
-config SHIELD_JORNADA
-    def_bool $(shield_list_contains, Jornada)
